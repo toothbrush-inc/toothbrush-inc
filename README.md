@@ -1,5 +1,5 @@
 # Toothbrush
-Building everyday, practical, and useful applications on decentralized technology.
+A company building everyday, useful consumer applications on decentralized technology.
 
 ## Get early access to our products
 Join the [beta group](https://forms.gle/MoBf8g9YfHiQjyM27)
